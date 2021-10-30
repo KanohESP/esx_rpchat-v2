@@ -1,17 +1,18 @@
-ESX RPCHAT
+ESX RPCHAT V2
 
-/ooc Local /oop Local /msg id (Private Message) /ayuda Send global help /lsdp - /ems - /taxi - /bennys (Customs jobs advertisements) /me Local (Especial Desing) /do Local (Especial Desing)
+/ooc = Chat for close people
+/ayuda = Help chat
+/id = Ask for someones id
 
-Requeriments
-es_extended Final version 1.1
+Requeriments:
 
-Tienes la opcion de poner la carpeta chat y rpchat para que sea igual que la foto!
+es_extended 
 
 Instalation
-Drop in resources/[gameplay]
+Drop in resources
 
-In CFG put start chat start esx_rpchat
+In CFG put start chat & start esx_rpchat
 
 This is my first content I hope you enjoy it!
 
-Clefas#8226
+@Kanoh#9824 if you need something ^^
